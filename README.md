@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+这是写自2024年5月24日的锦鲤， 我想记录一下我的代码之路，希望可以发好的文章，功成名就
 <!--
 **LittleWhiteKing/LittleWhiteKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
